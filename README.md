@@ -1,5 +1,11 @@
 # Network Connectivity & Analyzer Simulator
 
+Live Demo: https://network-connectivity-analyzer.onrender.com
+
+GitHub Repository: https://github.com/Preesha600274/network-connectivity-analyzer.git
+
+
+
 ## Project Overview
 
 The Network Connectivity & Analyzer Simulator is a web-based application designed to demonstrate fundamental Data Structures and Algorithms (DSA) concepts through a simulated computer network.
